@@ -1,3 +1,4 @@
 # trainingGit
 # test
-xxxxxxxแแแแ
+
+# test 2
